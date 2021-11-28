@@ -1,4 +1,4 @@
-# web_application
+# Notion VueJs 
 
 ## Project setup
 ```
